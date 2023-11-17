@@ -34,8 +34,8 @@ public class SwaggerConfig {
                 "1.0",
                 "Terms of service",
                 new Contact("Felipe da Silva Guimarães",
-                        "https://github.ibm.com/felipe-guimaraes/Project",
-                        "felipe.guimaraes@ibm.com"),
+                        "https://github.com/Felipe007Guimaraes/APIRest-SearchContracts",
+                        "felipe.guimaraesdeveloper@gmail.com"),
                 "Apache License Version 2.0",
                 "http://www.apache.org/license.html",
                 new ArrayList<VendorExtension>()
