@@ -1,4 +1,4 @@
-# APIRestSearchContracts
+# APIRest SearchContracts
 
 ## Description
 ### API com objetivo de busca de dados de contratos em uma rota do Banco central e trazer as informações tratadas
